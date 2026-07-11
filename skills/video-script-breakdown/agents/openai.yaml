@@ -1,0 +1,4 @@
+interface:
+  display_name: "视频脚本拆解与拉片"
+  short_description: "视频脚本拆解、拉片分析、分镜复刻与提示词生成工具"
+  default_prompt: "使用 $video-script-breakdown 将这个视频脚本或参考视频拆解成分镜拉片表、视听分析和复刻方案。"
